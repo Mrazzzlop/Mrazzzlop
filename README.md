@@ -4,7 +4,7 @@
 Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive
 
 - 🌱 I’m currently learning Python, Backend, HTML, SQL
--
+
 - 📫 How to reach me:
   - email: mrazzzlop@gmail.com
   - Telegram: @mrazzzlop
