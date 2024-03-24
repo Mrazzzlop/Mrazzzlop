@@ -1,4 +1,5 @@
 ### <h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank">Alexandr</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>. I am currently a beginner Python developer</h1>
+![](https://komarev.com/ghpvc/?username=Mrazzzlop)
 Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive
   
 [![codewars](https://www.codewars.com/users/mrazzzlop/badges/micro)](https://www.codewars.com/users/mrazzzlop)
