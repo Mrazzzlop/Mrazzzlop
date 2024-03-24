@@ -4,10 +4,6 @@
 Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive
 
 - 🌱 I’m currently learning Python, Backend, HTML, SQL
-
-- 📫 How to reach me:
-  - email: mrazzzlop@gmail.com
-  - [Telegram: @mrazzzlop](https://t.me/mrazzzlop)
 - 🔭 Stack
   [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
   [![Django](https://img.shields.io/badge/-Django-464646?style=flat&logo=Django&logoColor=56C0C0&color=008080)](https://www.djangoproject.com/)
@@ -18,6 +14,7 @@ Passionate beginner Python backend developer from Russia. Python, and all progra
   [![Docker](https://img.shields.io/badge/-Docker-464646?style=flat&logo=Docker&logoColor=56C0C0&color=008080)](https://www.docker.com/)
   [![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-464646?style=flat&logo=Docker&logoColor=56C0C0&color=008080)](https://www.docker.com/products/docker-hub)
   [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat&logo=GitHub%20actions&logoColor=56C0C0&color=008080)](https://github.com/features/actions)
-  
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mrazzzlop&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+-
+- 📫 How to reach me:
+  - email: mrazzzlop@gmail.com
+  - [Telegram: @mrazzzlop](https://t.me/mrazzzlop) 
