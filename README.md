@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   - Telegram: @mrazzzlop
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?mrazzzlop=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mrazzzlop&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
