@@ -7,7 +7,7 @@ Passionate beginner Python backend developer from Russia. Python, and all progra
 
 - 📫 How to reach me:
   - email: mrazzzlop@gmail.com
-  - Telegram: @mrazzzlop
+  - [Telegram: @mrazzzlop](https://t.me/mrazzzlop)
 - 🔭 Stack
   [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
   [![Django](https://img.shields.io/badge/-Django-464646?style=flat&logo=Django&logoColor=56C0C0&color=008080)](https://www.djangoproject.com/)
