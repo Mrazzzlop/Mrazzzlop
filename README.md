@@ -18,5 +18,5 @@ Passionate beginner Python backend developer from Russia. Python, and all progra
 
 
 ## 📫 How to reach me:
-  - [mrazzzlop@gmail.com](mailto:mrazzzlop@gmail.com)
+  - [mrazzzlop@gmail.com](Mailto::mrazzzlop@gmail.com)
   - [Telegram](https://t.me/mrazzzlop) 
