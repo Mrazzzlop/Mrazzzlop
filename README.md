@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   - email: mrazzzlop@gmail.com
   - Telegram: @mrazzzlop
 
-
+[![codewars](https://www.codewars.com/users/mrazzzlop/badges/micro)](https://www.codewars.com/users/mrazzzlop)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mrazzzlop&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
