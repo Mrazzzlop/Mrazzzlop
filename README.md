@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - email: mrazzzlop@gmail.com
   - Telegram: @mrazzzlop
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?mrazzzlop=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
