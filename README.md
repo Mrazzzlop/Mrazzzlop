@@ -18,6 +18,6 @@ Passionate beginner Python backend developer from Russia. Python, and all progra
 
 
 ## 📫 How to reach me:
-<a href="mailto:mrazzzlop@gmail.com">E-mail</a>
+  -<a href="mailto:mrazzzlop@gmail.com">E-mail</a>
   - [mrazzzlop@gmail.com](Mailto::mrazzzlop@gmail.com)
   - [Telegram](https://t.me/mrazzzlop) 
