@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Python, Backend, HTML, SQL
+- 📫 How to reach me:
+  - email: mrazzzlop@gmail.com
+  - Telegram: @mrazzzlop
