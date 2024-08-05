@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi, I'm Alexandr</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I am currently a beginner Python developer</h1>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mrazzzlop?theme=dark&font=Noto%20Serif%20Ethiopic)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mrazzzlop?theme=dark&font=Noto%20Serif%20Ethiopic)
 
 Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive
 
